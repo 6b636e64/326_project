@@ -1,6 +1,6 @@
 # Jellyworks
 
-# WEB APPLICATION NAME
+# Side Hustles 
 
 # Team Overview
 
