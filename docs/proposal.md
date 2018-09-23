@@ -18,7 +18,9 @@ This application pulls inspiration from Etsy and Amazon. Etsy, as an amateur-foc
 
 ### Important Data
 
-Please describe the important data that your application will be managing.
+Side Hustles is a web application that will enable students to purchase, sell, and exchange goods and services. As a result, it will make use of data that will promote transparency and convey information regarding the products and services that are available on the platform. Subsequently, the application will primarily handle data produced by users.  
+
+User reviews (1) will provide salient insight that will either validate or challenge the validity of what is being offered. “Likes” (2) will enable users to see what their peers on the platform take an interest in, enjoy, support, and etc. Product and service descriptions (3) will allow merchants to describe what they are offering; for users who are interested in buying or exchanging, it will enable them to determine which merchant they should patronize. Photos of the products and services (4) will visually supplement the descriptions written by the merchants. Questions (5)—submitted by the users and answered by the merchants—will enable the latter party to have an active record of questions that will support their efforts and clarify common issues that other users may have. 
 
 ### User Interface
 
