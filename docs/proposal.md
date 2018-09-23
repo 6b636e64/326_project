@@ -4,11 +4,11 @@
 
 # Team Overview
 
-* Team Member Name 1, Github Username 1
-* Team Member Name 2, Github Username 2
-* Team Member Name 3, Github Username 3
-* Team Member Name 4, Github Username 4
-* Team Member Name 5, Github Username 5
+* Team Member Sarah Manlove, @smanlove29
+* Team Member Edwood Brice, @edwoodbrice
+* Team Member Chinh Do, @damakos
+* Team Member Suzy Balles, Github Username 4
+* Team Member Jeff Reardon, Github Username 5
 
 # Innovative Idea
 
