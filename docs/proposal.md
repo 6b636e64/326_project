@@ -1,4 +1,4 @@
-# TEAM NAME
+# Jellyworks
 
 # WEB APPLICATION NAME
 
