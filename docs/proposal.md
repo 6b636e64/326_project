@@ -4,11 +4,11 @@
 
 # Team Overview
 
-* Team Member Sarah Manlove, @smanlove29
-* Team Member Edwood Brice, @edwoodbrice
-* Team Member Chinh Do, @damakos
-* Team Member Suzy Balles, Github Username 4
-* Team Member Jeff Reardon, Github Username 5
+* Sarah Manlove, @smanlove29
+* Edwood Brice, @edwoodbrice
+* Chinh Do, @damakos
+* Suzy Balles, Github Username 4
+* Jeff Reardon, Github Username 5
 
 # Innovative Idea
 
