@@ -24,8 +24,15 @@ User reviews (1) will provide salient insight that will either validate or chall
 
 ### User Interface
 
-Provide a description and images of the user interface your
-application will intend on supporting.
+The first thing users will see is the landing page. In the center of the page is a search bar and below that is a scrollable row of items that are trending or popular with other users. There is a navigation bar with the logo of our site and a user icon in the right corner. All pages on this site will support a nav bar. 
+
+The profile (user) page has a photo of the user and user information next to the picture (such as username which also includes NetID, first name and last name). It’s like a user settings page and you can change your email settings, password, and displayed major. 
+
+The about/goals page has our logo in the center of the page and features a short blurb of what this site is for and the contact information for each of the creators. 
+
+The browse page is a linked to the search bar on the landing page. There’s still a search bar but it will then list users and products related to the search term(s). A sidebar will list search/result options (like filters, availability, skill, etc.). 
+
+The last page is the product description page. It features image(s) of the product or service offered, the name of what’s being offered, the seller’s name, a brief description of the product/service, FAQs, reviews, and similar products/services on the side.
 
 ![example image](imgs/chick.jpg)
 
