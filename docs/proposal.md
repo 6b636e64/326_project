@@ -7,8 +7,8 @@
 * Sarah Manlove, @smanlove29
 * Edwood Brice, @edwoodbrice
 * Chinh Do, @damakos
-* Suzy Balles, Github Username 4
-* Jeff Reardon, Github Username 5
+* Suzy Balles, @suzyballes
+* Jeff Reardon, @JeffreyReardon
 
 ### Innovative Idea
 
