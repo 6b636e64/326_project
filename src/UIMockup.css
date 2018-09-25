@@ -1,0 +1,19 @@
+
+img.product{
+  margin: 25px 50px;
+  max-width: 300px;
+}
+
+.btn{
+  background-color: blue;
+  color: #fff;
+  margin-top: 50px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+  }
+
+  .btn:hover {
+      background-color: #fff;
+      border-color: blue;
+      color: blue;
+  }
