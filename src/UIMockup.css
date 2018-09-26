@@ -15,16 +15,15 @@ img.product{
   background-color: blue;
   color: #fff;
   margin-top: 50px;
-  -webkit-transition-duration: 0.4s; /* Safari */
-      transition-duration: 0.4s;
-  }
+}
 
-  .btn:hover {
-      background-color: #fff;
-      border-color: blue;
-      color: blue;
-  }
-
-  .like{
+.like{
     background-color: #ADD8E6;
-  }
+}
+
+.review{
+  margin-top: 5px;
+}
+.search{
+  margin-top: 0px;
+}
