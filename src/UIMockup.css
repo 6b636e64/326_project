@@ -1,3 +1,10 @@
+h1{
+  padding-top: 20px;
+}
+
+.btm-row{
+  margin-left: 25px;
+}
 
 img.product{
   margin: 25px 50px;
@@ -16,4 +23,8 @@ img.product{
       background-color: #fff;
       border-color: blue;
       color: blue;
+  }
+
+  .like{
+    background-color: #ADD8E6;
   }
