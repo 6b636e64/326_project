@@ -36,3 +36,4 @@ The last page is the product description page. It features image(s) of the produ
 
 ![example image](imgs/productPage.png)
 
+![image of about page](imgs/about&#32;page&#32;screenshot.png)
