@@ -6,7 +6,7 @@
 
 * Sarah Manlove, @smanlove29
 * Edwood Brice, @edwoodbrice
-* Chinh Do, @damakos
+* Chinh Do, @6b636e64
 * Suzy Balles, @suzyballes
 * Jeff Reardon, @JeffreyReardon
 
