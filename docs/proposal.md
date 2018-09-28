@@ -34,6 +34,8 @@ The browse page is a linked to the search bar on the landing page. There’s sti
 
 The last page is the product description page. It features image(s) of the product or service offered, the name of what’s being offered, the seller’s name, a brief description of the product/service, FAQs, reviews, and similar products/services on the side.
 
+#### User Interface Screenshots 
+
 ### Side Hustles Landing Page
 ![Test_Label](imgs/SideHustlesLandingPage.png)
 ### Profile Page
