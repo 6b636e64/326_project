@@ -43,7 +43,7 @@ The last page is the product description page. It features image(s) of the produ
 ![profilePageUI_image](imgs/ProfilePageMockUp.JPG)
 
 ### Goals / About Us Page
-![aboutUsGoalsUI_image](imgs/about&#32;page&#32;screenshot.png)
+![aboutUsGoalsUI_image](imgs/about-page.png)
 
 ### Browse 
 ![browseUI_image](imgs/browseUIScreenshot.png)
