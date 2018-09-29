@@ -6,9 +6,10 @@ h1{
   margin-left: 25px;
 }
 
-img.product{
+img.profile_pic{
   margin: 25px 50px;
   max-width: 300px;
+  border: 8px;
 }
 
 .btn{
@@ -24,14 +25,8 @@ img.product{
 .review{
   margin-top: 5px;
 }
-.customer-review{
-  background-color: #EEE;
-  padding: 5px;
-}
-
-.checked{
-  color: #FFD700;
-}
 .search{
   margin-top: 0px;
 }
+
+.side15{ margin-right: 15px; }

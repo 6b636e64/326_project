@@ -1,0 +1,32 @@
+h1{
+  padding-top: 20px;
+}
+
+.btm-row{
+  margin-left: 25px;
+}
+
+img.product{
+  margin: 25px 50px;
+  max-width: 300px;
+}
+
+.btn{
+  background-color: blue;
+  color: #fff;
+  margin-top: 50px;
+}
+
+.like{
+    background-color: #ADD8E6;
+}
+
+.review{
+  margin-top: 5px;
+}
+
+
+
+.search{
+  margin-top: 0px;
+}
