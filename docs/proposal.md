@@ -26,7 +26,7 @@ User reviews (1) will provide salient insight that will either validate or chall
 
 The first thing users will see is the landing page. In the center of the page is a search bar and below that is a scrollable row of items that are trending or popular with other users. There is a navigation bar with the logo of our site and a user icon in the right corner. All pages on this site will support a nav bar. 
 
-The profile (user) page has a photo of the user and user information next to the picture (such as username which also includes NetID, first name and last name). It’s like a user settings page and you can change your email settings, password, and displayed major. 
+The profile (user) page has a photo of the user and user information next to the picture (such as username which also includes NetID, first name and last name). It’s like a user settings page and you can change your email settings, password, and displayed name. 
 
 The about/goals page has our logo in the center of the page and features a short blurb of what this site is for and the contact information for each of the creators. 
 
@@ -38,7 +38,9 @@ The last page is the product description page. It features image(s) of the produ
 
 ### Side Hustles Landing Page
 ![landingPageUI_image](imgs/SideHustlesLandingPage.png)
+
 ### Profile Page
+![profilePageUI_image](imgs/ProfilePageMockUp.JPG)
 
 ### Goals / About Us Page
 ![aboutUsGoalsUI_image](imgs/about&#32;page&#32;screenshot.png)
